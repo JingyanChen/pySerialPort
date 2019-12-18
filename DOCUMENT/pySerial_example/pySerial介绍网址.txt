@@ -1,1 +1,4 @@
 https://pyserial.readthedocs.io/en/latest/pyserial.html#overview
+
+blog
+https://blog.csdn.net/xuzhexing/article/details/91043579
